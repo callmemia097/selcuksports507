@@ -1,4 +1,4 @@
-# Selcuksports Canlı Maç Yayınlarıyla Heyecanı Doğru Evinizde Yaşayın!
+# Selcuksports Canlı Maç Yayınlarıyla Heyecanı Evinizde Yaşayın!
 
 Spor tutkunlarının vazgeçilmez adresi, en güncel ve kesintisiz canlı maç yayınlarıyla sizleri bekliyor. Futbol, basketbol, voleybol ve daha birçok branşta, sevdiğiniz takımların ve oyuncuların heyecan dolu anlarını yüksek görüntü kalitesiyle ekranınıza getiriyoruz.
 
@@ -6,4 +6,4 @@ Spor tutkunlarının vazgeçilmez adresi, en güncel ve kesintisiz canlı maç y
 
 Her an, her yerde, en doğru ve güvenilir canlı maç yayınlarıyla spora olan aşkınızı doyasıya yaşayın. Sporun heyecanını bizimle paylaşın!
 
-# Haydi, Selçuk Sports ile şimdiden favori maçlarınızı seçin ve ekran başına geçin!
+# <h3>Haydi, Selçuk Sports ile şimdiden favori maçlarınızı seçin ve ekran başına geçin!</h3>
